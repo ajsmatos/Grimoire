@@ -1,0 +1,77 @@
+conky.config = {
+    alignment = 'top_middle',
+    background = true,
+    border_width = 1,
+    cpu_avg_samples = 2,
+	default_color = 'orange',
+	double_buffer = true,
+    default_outline_color = 'white',
+    default_shade_color = 'white',
+    draw_graph_borders = true,
+    draw_shades = false,
+    use_xft = true,
+    font = 'DejaVu Sans Mono:size=10',
+    gap_x = 0,
+    gap_y = 30,
+    minimum_height = 5,
+	minimum_width = 5,
+
+	
+
+    net_avg_samples = 2,
+    no_buffers = true,
+    out_to_console = false,
+    out_to_stderr = false,
+    extra_newline = false,
+
+    own_window_title = "caveira",
+    own_window = true,
+    own_window_transparent = true,
+    own_window_type = 'normal',
+    
+
+    stippled_borders = 0,
+    update_interval = 1.0,
+    uppercase = false,
+    use_spacer = 'none',
+    show_graph_scale = true,
+    show_graph_range = true,
+    temperature_unit = 'celsius'
+}
+
+conky.text = [[
+          
+
+                       
+        .                                                      .
+        .n                   .                 .                  n.
+  .   .dP                  dP                   9b                 9b.    .
+ 4    qXb         .       dX                     Xb       .        dXp     t
+dX.    9Xb      .dXb    __                         __    dXb.     dXP     .Xb
+9XXb._       _.dXXXXb dXXXXbo.                 .odXXXXb dXXXXb._       _.dXXP
+ 9XXXXXXXXXXXXXXXXXXXVXXXXXXXXOo.           .oOXXXXXXXXVXXXXXXXXXXXXXXXXXXXP
+  `9XXXXXXXXXXXXXXXXXXXXX'~   ~`OOO8b   d8OOO'~   ~`XXXXXXXXXXXXXXXXXXXXXP'
+    `9XXXXXXXXXXXP' `9XX'   DIE    `98v8P'  HUMAN   `XXP' `9XXXXXXXXXXXP'
+        ~~~~~~~       9X.          .db|db.          .XP       ~~~~~~~
+                        )b.  .dbo.dP'`v'`9b.odb.  .dX(
+                      ,dXXXXXXXXXXXb     dXXXXXXXXXXXb.
+                     dXXXXXXXXXXXP'   .   `9XXXXXXXXXXXb
+                    dXXXXXXXXXXXXb   d|b   dXXXXXXXXXXXXb
+                    9XXb'   `XXXXXb.dX|Xb.dXXXXX'   `dXXP
+                     `'      9XXXXXX(   )XXXXXXP      `'
+                              XXXX X.`v'.X XXXX
+                              XP^X'`b   d'`X^XX
+                              X. 9  `   '  P )X
+                              `b  `       '  d'
+                           .   `             '                           
+                     .     8                  8        . 
+                    4      8          '       8         t
+                    8    8 8,88,      t ,888, 8888 8    d 
+                    8    8 8   8 4    8 8   8 8    8    8 
+                    8    8 8   8 8    8 8   8 8    8    8 
+                    '8888' '888' '8888' 8   8 '888 '8888' 
+                     `'9                8             d'                
+                       `                '              '
+                                        
+]]
+ 
